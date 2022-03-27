@@ -1,0 +1,19 @@
+{
+  "name": "encrypted-secret-note",
+  "version": "1.0.0",
+  "description": "Encrypted Secret Note",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhaufillah/encrypted-secret-note.git"
+  },
+  "author": "mkhaufillah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkhaufillah/encrypted-secret-note/issues"
+  },
+  "homepage": "https://github.com/mkhaufillah/encrypted-secret-note#readme"
+}
